@@ -3,10 +3,8 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Labani%20Nabila&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20Specialist&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Researcher;Building+Intelligent+Systems;Turning+Data+into+Decisions" alt="Typing SVG" />
-</a>
+<!-- Typing Animation — fixed color encoding and wider width -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2C8EAA&center=true&vCenter=true&multiline=false&width=500&height=50&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Researcher;Building+Intelligent+Systems;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 <br/>
 
@@ -81,7 +79,7 @@ me.say_hi()
 
 <div align="center">
 
-[![AI-Pediatric-Pneumonia-Detection](https://github-readme-stats.vercel.app/api/pin/?username=labaninabila193-code&repo=AI-Pediatric-Pneumonia-Detection&theme=tokyonight&border_color=2c5364&title_color=a8d8ea&icon_color=2c5364)](https://github.com/labaninabila193-code/AI-Pediatric-Pneumonia-Detection)
+[![AI-Pediatric-Pneumonia-Detection](https://github-readme-stats.vercel.app/api/pin/?username=labaninabila193-code&repo=AI-Pediatric-Pneumonia-Detection&theme=tokyonight&border_color=2c5364&title_color=a8d8ea&icon_color=2c5364&cache_seconds=1800)](https://github.com/labaninabila193-code/AI-Pediatric-Pneumonia-Detection)
 
 </div>
 
@@ -93,9 +91,9 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=labaninabila193-code&show_icons=true&theme=tokyonight&border_color=2c5364&title_color=a8d8ea&icon_color=2c5364&text_color=ffffff&bg_color=0d1117&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=labaninabila193-code&show_icons=true&theme=tokyonight&border_color=2c5364&title_color=a8d8ea&icon_color=2c5364&text_color=ffffff&bg_color=0d1117&hide_border=false&count_private=true&cache_seconds=1800" alt="Labani's GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labaninabila193-code&layout=compact&theme=tokyonight&border_color=2c5364&title_color=a8d8ea&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labaninabila193-code&layout=compact&theme=tokyonight&border_color=2c5364&title_color=a8d8ea&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
